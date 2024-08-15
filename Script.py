@@ -708,7 +708,7 @@ special Thanks To ❤️ Developers -
 
 -Dev 2 <a href='https://t.me/kaifsarkar53'>Kaif</a>
 
--Dev 3 <a href='https://t.me/kaifsarkar53'>Kaif</a>
+-Dev 3 <a href='https://t.me/kaifsarkar53>Kaif</a>
 
 - Dev 4 <a href='https://t.me/kaifsarkar53'>Kaif</a>
 """
